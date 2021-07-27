@@ -1,0 +1,22 @@
+{
+  "name": "fisrttestproject",
+  "version": "1.0.0",
+  "description": "khoi tao node project dau tien",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiduydien/firsttestproject.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "dienmd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maiduydien/firsttestproject/issues"
+  },
+  "homepage": "https://github.com/maiduydien/firsttestproject#readme"
+}
