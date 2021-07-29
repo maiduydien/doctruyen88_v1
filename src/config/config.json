@@ -1,16 +1,16 @@
 {
   "development": {
-    "username": "root",
+    "username": "dienmd",
     "password": null,
     "database": "doctruyen88",
-    "host": "192.168.6.11",
+    "host": "192.168.6.14",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
+    "username": "dienmd",
     "password": null,
     "database": "database_test",
-    "host": "127.0.0.1",
+    "host": "192.168.6.14",
     "dialect": "mysql"
   },
   "production": {
