@@ -1,8 +1,9 @@
 import { Sequelize } from "sequelize";
 
 const sequelize = new Sequelize('doctruyen88', 'dienmd', '', {
-  host: '192.168.6.14',
-  dialect: 'mysql' 
+  host: '192.168.6.12',
+  dialect: 'mysql' ,
+  logging: false,
 })
 
 export const connectDB=async()=>{

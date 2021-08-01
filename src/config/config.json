@@ -3,14 +3,14 @@
     "username": "dienmd",
     "password": null,
     "database": "doctruyen88",
-    "host": "192.168.6.14",
+    "host": "192.168.6.12",
     "dialect": "mysql"
   },
   "test": {
     "username": "dienmd",
     "password": null,
     "database": "database_test",
-    "host": "192.168.6.14",
+    "host": "192.168.6.12",
     "dialect": "mysql"
   },
   "production": {
